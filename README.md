@@ -83,4 +83,4 @@ Unauthorized users be be redirected(Accessing someone else's user/ invalid token
 When token expires after 15mins, users will be logged out of their account and redirected to the Home page.
 
 //
-License: PokeAPI for Pet images
+License: PokeAPI for Pokemon Pet images
